@@ -1,59 +1,56 @@
-🌴 TAO PO
+TAO PO
 
-A Web-Mobile Service Platform for Local Labor in Bohol
+A Web Mobile Service Platform for Local Labor in Bohol
 
-📌 About
+About
 
-TAO PO is a web-based mobile application designed to connect job seekers (especially unemployed laborers or “tambay”) with job providers in Bohol.
+TAO PO is a web based mobile application that connects job seekers and job providers within Bohol. It is mainly focused on helping unemployed individuals, especially those who do not currently have work, find job opportunities that match their skills.
 
-The platform focuses on giving opportunities to people who currently don’t have jobs by helping them find work that matches their skills.
+This platform gives people a chance to earn and helps local businesses find available workers in an easier way.
 
-🎯 Purpose
+Purpose
 
-TAO PO aims to:
+TAO PO was created to provide opportunities for people who are currently unemployed. It also helps local businesses and individuals find workers without difficulty. The system aims to support the local community by connecting people who need jobs with those who offer them.
 
-Provide job opportunities for unemployed individuals
-Help local businesses find available workers بسهولة
-Support the local economy in Bohol
-Bridge the gap between job seekers and employers
-🚀 Key Features
-🔎 Find a Job (For Laborers)
-Personalized job matching
-Browse available jobs in Bohol
-Simple and mobile-friendly interface
-Easy application process
-🧑‍💼 Job Provider Page
-Post job listings
-Find workers based on skills
-Manage job applicants
-📱 Web-Mobile App
-Accessible on phones and browsers
-Responsive design for better user experience
-Lightweight and easy to use
-👥 Target Users
-Unemployed individuals / laborers (“tambay”)
-Local employers and small businesses in Bohol
-🛠️ Tech Stack
+Features
 
-(You can edit this based on what you used)
+Find a Job Page
+This page allows users to search for jobs that fit their skills and abilities. It is designed to be simple and easy to use on mobile devices.
 
-Frontend: HTML, CSS, JavaScript / React
-Backend: Node.js / PHP
-Database: MySQL / Firebase
-🌍 Location Scope
+Job Provider Page
+This page allows employers to post job opportunities and find workers based on their needs.
 
-📍 This platform is exclusively for Bohol, Philippines
+Web Mobile Access
+The system can be accessed through mobile devices and browsers. It is responsive and designed for convenience.
 
-📦 Installation
-git clone https://github.com/SamNahutdo/tao-po.git
-cd tao-po
+Target Users
+
+This platform is intended for unemployed individuals or laborers who are looking for work, as well as local employers and small businesses in Bohol.
+
+Technology Used
+
+Frontend uses HTML, CSS, and JavaScript or React depending on your setup.
+Backend can be Node.js or PHP.
+Database can be MySQL or Firebase.
+
+Location Scope
+
+This platform is intended only for Bohol, Philippines.
+
+Installation
+
+To run the project locally, clone the repository and install the required dependencies.
+
+git clone https://github.com/SamNahutdo/tao_po.git
+
+cd tao_po
 npm install
 npm run dev
-🤝 Contributing
 
-Contributions are welcome!
-Feel free to fork this repository and submit a pull request.
+Contribution
 
-📄 License
+You can contribute by forking the repository and submitting a pull request.
 
-This project is for educational and development purposes.
+License
+
+This project is for educational and development purposes only.
