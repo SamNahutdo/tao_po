@@ -45,7 +45,7 @@ Database: MySQL / Firebase
 📍 This platform is exclusively for Bohol, Philippines
 
 📦 Installation
-git clone https://github.com/your-username/tao-po.git
+git clone https://github.com/SamNahutdo/tao-po.git
 cd tao-po
 npm install
 npm run dev
